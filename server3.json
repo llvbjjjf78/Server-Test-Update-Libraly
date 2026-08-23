@@ -1,6 +1,9 @@
 {
   "user": "m3",
   "pass": "1",
-  "key": "ADM",
-  "expiry": "17560000"
+  "key": "adm3",
+  "expiry": "2026-12-30 23:59:59",
+  "god": "0x17EC270",
+  "ammo": "0x17EA358",
+  "speed": "0x17EA21C"
 }
