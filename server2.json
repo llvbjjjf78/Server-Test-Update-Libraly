@@ -1,6 +1,6 @@
 {
-  "user": "m",
+  "user": "m2",
   "pass": "1",
-  "key": "ADMIN-123",
-  "expiry": 17560000
+  "key": "adm2",
+  "expiry": 1800000000
 }
