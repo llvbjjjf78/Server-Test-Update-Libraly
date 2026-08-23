@@ -1,4 +1,6 @@
 {
-  "user": "mp",
-  "pass": "11"
+  "user": "m1",
+  "pass": "1",
+  "key": "adm",
+  "expiry": 1800000000
 }
