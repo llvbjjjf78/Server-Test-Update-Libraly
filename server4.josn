@@ -1,0 +1,20 @@
+[
+  {
+    "user": "m22",
+    "pass": "1",
+    "key": "adm22",
+    "expiry": "2026-12-31 23:59:59",
+    "god": "0x123",
+    "ammo": "0x456",
+    "speed": "0x789"
+  },
+  {
+    "user": "admin",
+    "pass": "admin",
+    "key": "vip",
+    "expiry": "2027-01-01 00:00:00",
+    "god": "0xAAA",
+    "ammo": "0xBBB",
+    "speed": "0xCCC"
+  }
+]
