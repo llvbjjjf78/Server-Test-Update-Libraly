@@ -2,7 +2,7 @@
   [
   {
     "Update": "1",
-    "TimeUpdate": "1",
+    "TimeUpdate": "5",
     "version": "0.05",
     "link" :"https://anuken11.sinaki/1jsdhh"
   },
@@ -10,6 +10,6 @@
   "user": "m1",
   "pass": "1",
   "key": "adm",
-  "expiry": "2026-09-31 23:59:59"
+  "expiry": "2026-09-30 23:59:59"
  }
 ]
